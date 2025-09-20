@@ -1,87 +1,268 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# CodeMaster - Programming Learning Platform
 
+A comprehensive, modern website for learning programming from scratch to expert level, featuring dark/light themes, Arabic/English support, and interactive animations.
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
-</ul>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+## 🌟 Features
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+### 🎨 Design & Themes
+- **Dark Theme (Default)**: Modern dark color scheme with neon accents
+- **Light Theme**: Clean light theme for daytime use
+- **Responsive Design**: Works perfectly on all devices
+- **Modern UI/UX**: Beautiful gradients, shadows, and animations
 
+### 🌍 Multilingual Support
+- **English**: Primary language with professional terminology
+- **Arabic**: Full RTL support with Arabic font (Cairo)
+- **Easy Switching**: Toggle between languages with one click
+- **Localized Content**: All text, buttons, and labels are translated
+
+### ✨ Interactive Elements
+- **Animated Background**: Floating code snippets from various programming languages
+- **Code Rain Effect**: Subtle animated background gradient
+- **Particle System**: Dynamic particles in the hero section
+- **Smooth Animations**: Scroll-triggered animations and hover effects
+- **Interactive Cards**: Hover effects and click animations
+
+### 📚 Comprehensive Content
+- **Programming Courses**: Web development, mobile apps, AI, cybersecurity, data science, game development
+- **Programming Languages**: Python, JavaScript, Java, C++, C#, and more
+- **Learning Resources**: PDFs, videos, books, and development tools
+- **Skill Levels**: Beginner, intermediate, and advanced courses
+
+### 🚀 Technical Features
+- **Modern CSS**: CSS Grid, Flexbox, CSS Variables, and animations
+- **Vanilla JavaScript**: No frameworks, pure performance
+- **Intersection Observer**: Efficient scroll animations
+- **Local Storage**: Remembers user preferences
+- **Keyboard Shortcuts**: Ctrl+T for theme, Ctrl+L for language
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic markup and modern structure
+- **CSS3**: Advanced styling, animations, and responsive design
+- **JavaScript (ES6+)**: Modern JavaScript with modules and async features
+- **Font Awesome**: Professional icons
+- **Google Fonts**: Cairo (Arabic) and Roboto (English)
+
+## 📁 File Structure
+
+```
+codemaster/
+├── index.html          # Main HTML file
+├── styles.css          # CSS styles and animations
+├── script.js           # JavaScript functionality
+└── README.md           # This documentation
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- No server required - runs locally
+
+### Installation
+1. Download or clone the project files
+2. Open `index.html` in your web browser
+3. The website will load with all features enabled
+
+### Local Development
+1. Place all files in the same directory
+2. Open `index.html` in your browser
+3. Make changes to CSS/JS files and refresh to see updates
+
+## 🎯 Key Sections
+
+### 1. Hero Section
+- Compelling title with gradient text
+- Interactive code editor display
+- Call-to-action buttons
+- Particle effects and animations
+
+### 2. Courses Section
+- 6 main programming course categories
+- Interactive course cards with hover effects
+- Skill level indicators
+- Responsive grid layout
+
+### 3. Programming Languages
+- 6 popular programming languages
+- Feature highlights for each language
+- Interactive language cards
+- Hover animations and effects
+
+### 4. Resources Section
+- Tabbed interface for different resource types
+- PDFs, videos, books, and tools
+- Download simulation functionality
+- Responsive resource grid
+
+### 5. About Section
+- Platform description and mission
+- Animated statistics counters
+- Company information
+- Interactive stat cards
+
+## 🎨 Customization
+
+### Colors
+The website uses CSS custom properties for easy color customization:
+
+```css
+:root {
+    --accent-primary: #00d4ff;    /* Main blue accent */
+    --accent-secondary: #ff6b6b;  /* Red accent */
+    --accent-tertiary: #4ecdc4;   /* Teal accent */
+    --bg-primary: #0a0a0a;       /* Dark background */
+    --text-primary: #ffffff;      /* White text */
+}
+```
+
+### Themes
+- **Dark Theme**: Default with dark backgrounds and bright accents
+- **Light Theme**: Clean white backgrounds with dark text
+- **Automatic**: Remembers user preference in local storage
+
+### Animations
+- **Floating Elements**: Code snippets that float across the screen
+- **Scroll Animations**: Elements animate as they come into view
+- **Hover Effects**: Interactive feedback on all clickable elements
+- **Particle System**: Dynamic background particles
+
+## 📱 Responsive Design
+
+The website is fully responsive with breakpoints at:
+- **Desktop**: 1200px and above
+- **Tablet**: 768px to 1199px
+- **Mobile**: Below 768px
+
+### Mobile Features
+- Collapsible navigation menu
+- Touch-friendly buttons and interactions
+- Optimized layouts for small screens
+- Swipe-friendly interface
+
+## 🌐 Browser Support
+
+- **Chrome**: 60+
+- **Firefox**: 55+
+- **Safari**: 12+
+- **Edge**: 79+
+- **Mobile Browsers**: iOS Safari, Chrome Mobile
+
+## 🔧 Advanced Features
+
+### Performance Optimizations
+- Intersection Observer for efficient animations
+- Debounced scroll events
+- Lazy loading support
+- Optimized CSS animations
+
+### Accessibility
+- Semantic HTML structure
+- ARIA labels and roles
+- Keyboard navigation support
+- High contrast themes
+- Screen reader friendly
+
+### SEO Features
+- Semantic HTML markup
+- Meta tags and descriptions
+- Structured content
+- Fast loading times
+
+## 🎮 Interactive Elements
+
+### Floating Code Elements
+- Python, JavaScript, Java, C++, HTML, CSS, SQL, PHP
+- Random positioning and animation delays
+- Hover effects and interactions
+- Parallax scrolling effects
+
+### Code Editor
+- Syntax-highlighted Python code
+- Blinking cursor animation
+- Realistic IDE appearance
+- Responsive design
+
+### Statistics Counters
+- Animated number counting
+- Scroll-triggered animations
+- Smooth transitions
+- Interactive hover effects
+
+## 📚 Content Categories
+
+### Programming Courses
+1. **Web Development**: HTML, CSS, JavaScript, React, Node.js
+2. **Mobile Development**: iOS, Android, React Native, Flutter
+3. **Artificial Intelligence**: Machine Learning, Deep Learning, Python
+4. **Cybersecurity**: Ethical hacking, network security, cryptography
+5. **Data Science**: Data analysis, statistics, SQL, visualization
+6. **Game Development**: Unity, C#, 3D modeling, game physics
+
+### Programming Languages
+1. **Python**: AI/ML, web development, data science
+2. **JavaScript**: Frontend, backend, mobile development
+3. **Java**: Enterprise applications, Android development
+4. **C++**: High-performance applications, games, systems
+5. **C#**: Microsoft ecosystem, game development
+6. ~~Go: Cloud-native applications, microservices~~ (removed per project scope)
+
+## 🚀 Future Enhancements
+
+### Planned Features
+- User authentication system
+- Progress tracking
+- Interactive coding challenges
+- Video course integration
+- Community forum
+- Mobile app version
+
+### Technical Improvements
+- PWA (Progressive Web App) support
+- Offline functionality
+- Advanced animations
+- 3D elements
+- WebGL effects
+
+## 🤝 Contributing
+
+This is a demonstration project showcasing modern web development techniques. Feel free to:
+
+1. Fork the repository
+2. Create feature branches
+3. Submit pull requests
+4. Report issues
+5. Suggest improvements
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 🎯 Target Audience
+
+- **Beginners**: Complete programming novices
+- **Students**: Computer science and IT students
+- **Professionals**: Developers looking to learn new skills
+- **Career Changers**: People transitioning to tech
+- **Hobbyists**: Programming enthusiasts
+
+## 🌟 Why CodeMaster?
+
+- **Comprehensive**: Covers all major programming domains
+- **Modern**: Built with latest web technologies
+- **Interactive**: Engaging animations and effects
+- **Accessible**: Works for all users and devices
+- **Multilingual**: Supports global audience
+- **Professional**: Enterprise-quality design and code
+
+## 📞 Support
+
+For questions, suggestions, or support:
+- Create an issue in the repository
+- Contact the development team
+- Check the documentation
+
+---
+
+**CodeMaster** - Your gateway to programming excellence! 🚀💻

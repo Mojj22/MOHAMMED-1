@@ -1,0 +1,241 @@
+/* Enhanced Authentication Styles */
+.auth-btn.logged-in {
+    background: linear-gradient(135deg, #28a745, #20c997);
+    border-color: #28a745;
+}
+
+.auth-btn.logged-in:hover {
+    background: linear-gradient(135deg, #218838, #1ea080);
+    transform: translateY(-2px);
+}
+
+/* Form validation styles */
+.input-group.error input {
+    border-color: #dc3545;
+    box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+}
+
+.field-error {
+    color: #dc3545;
+    font-size: 0.875rem;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.field-error::before {
+    content: '⚠';
+    margin-right: 5px;
+}
+
+/* User menu styles */
+.user-menu {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    min-width: 280px;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+}
+
+.user-menu.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.user-menu-header {
+    padding: 20px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.user-menu-header i {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+}
+
+.user-menu-header h4 {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 1.1rem;
+}
+
+.user-menu-header p {
+    margin: 5px 0 0 0;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.user-menu-items {
+    padding: 10px 0;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    color: var(--text-color);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.menu-item:hover {
+    background: var(--hover-bg);
+    color: var(--primary-color);
+}
+
+.menu-item i {
+    width: 20px;
+    text-align: center;
+}
+
+.menu-item.logout-btn {
+    color: #dc3545;
+    border-top: 1px solid var(--border-color);
+    margin-top: 10px;
+}
+
+.menu-item.logout-btn:hover {
+    background: rgba(220, 53, 69, 0.1);
+    color: #dc3545;
+}
+
+/* Course welcome message styles */
+.course-welcome-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.8);
+    background: var(--card-bg);
+    border: 2px solid var(--primary-color);
+    border-radius: 20px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    z-index: 10000;
+    opacity: 0;
+    transition: all 0.4s ease;
+    max-width: 500px;
+    width: 90%;
+}
+
+.course-welcome-message.show {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.course-welcome-message.new-user {
+    border-color: var(--secondary-color);
+}
+
+.welcome-content i {
+    font-size: 3rem;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    animation: bounce 2s infinite;
+}
+
+.course-welcome-message.new-user .welcome-content i {
+    color: var(--secondary-color);
+}
+
+.welcome-content h3 {
+    color: var(--text-color);
+    margin: 0 0 15px 0;
+    font-size: 1.8rem;
+}
+
+.welcome-content p {
+    color: var(--text-secondary);
+    margin: 0 0 25px 0;
+    font-size: 1.1rem;
+}
+
+.welcome-actions {
+    margin-top: 25px;
+}
+
+.welcome-actions .btn {
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    border-radius: 25px;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+/* Loading button states */
+.auth-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+.auth-btn .fa-spinner {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/* Enhanced responsive design for authentication */
+@media (max-width: 768px) {
+    .user-menu {
+        min-width: 250px;
+        right: 10px !important;
+    }
+    
+    .course-welcome-message {
+        padding: 30px 20px;
+        width: 95%;
+    }
+    
+    .welcome-content h3 {
+        font-size: 1.5rem;
+    }
+    
+    .welcome-content p {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .user-menu {
+        min-width: 220px;
+    }
+    
+    .user-menu-header {
+        padding: 15px;
+    }
+    
+    .menu-item {
+        padding: 10px 15px;
+    }
+    
+    .course-welcome-message {
+        padding: 25px 15px;
+    }
+    
+    .welcome-content i {
+        font-size: 2.5rem;
+    }
+    
+    .welcome-content h3 {
+        font-size: 1.3rem;
+    }
+}
